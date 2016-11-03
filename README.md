@@ -1,6 +1,6 @@
 # Kalkulator
 
-Nama Program : Intent 1
+Nama Program : Kalkulator Sederhana
 <br>
 ![kalkulator kali](https://cloud.githubusercontent.com/assets/22133030/19967575/824748ce-a203-11e6-8577-21d41f9dc509.PNG)<br>
 ![kalkulator bagi](https://cloud.githubusercontent.com/assets/22133030/19967579/87f68aaa-a203-11e6-9529-86b860323b09.PNG)<br>
